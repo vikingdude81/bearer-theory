@@ -8,6 +8,13 @@ authors:
     orcid: "https://orcid.org/0009-0003-4252-7556"
 repository-code: "https://github.com/vikingdude81/bearer-theory"
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22761148"
+    description: "When Identity Is Load-Bearing: A Proposed Design Law for Incorporated Developmental State"
+  - type: doi
+    value: "10.5281/zenodo.22761207"
+    description: "Life Before Language: Separating the Engineering Gap from the Metaphysical Gap in Debates on Machine Consciousness"
 preferred-citation:
   type: article
   title: "When Identity Is Load-Bearing: A Proposed Design Law for Incorporated Developmental State"
@@ -17,4 +24,5 @@ preferred-citation:
       affiliation: "Independent Researcher, Long Beach, CA"
       orcid: "https://orcid.org/0009-0003-4252-7556"
   year: 2026
-  notes: "Preprint. A Zenodo DOI will be added on publication."
+  doi: "10.5281/zenodo.22761148"
+  notes: "Preprint archived on Zenodo (CC BY 4.0)."

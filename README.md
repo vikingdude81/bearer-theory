@@ -5,12 +5,15 @@ Preprints from the Bearer Theory / *Life Before Language* research program.
 **Author:** Alex Bone, Independent Researcher, Long Beach, CA ([ORCID 0009-0003-4252-7556](https://orcid.org/0009-0003-4252-7556))
 **License:** CC BY 4.0 (see [LICENSE](LICENSE))
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22761148.svg)](https://doi.org/10.5281/zenodo.22761148) When Identity Is Load-Bearing
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22761207.svg)](https://doi.org/10.5281/zenodo.22761207) Life Before Language
+
 ---
 
 ## Papers
 
 ### 1. When Identity Is Load-Bearing: A Proposed Design Law for Incorporated Developmental State
-**[PDF](When_Identity_Is_Load_Bearing_v1_submission.pdf)** · preprint, 2026
+**[PDF](When_Identity_Is_Load_Bearing_v1_submission.pdf)** · preprint, 2026 · DOI: [10.5281/zenodo.22761148](https://doi.org/10.5281/zenodo.22761148)
 
 When does an incorporated developmental state (a "bearer" that both biases behavior and is
 updated by that behavior's own outcomes) actually do causal work rather than sitting idle?
@@ -22,7 +25,7 @@ gap of 0.51 (replicated, attention-dissociated, holding at scale) establishes lo
 non-transferability where the escape route is foreclosed and the bearer is adaptive.
 
 ### 2. Life Before Language: Separating the Engineering Gap from the Metaphysical Gap in Debates on Machine Consciousness
-**[PDF](Life_Before_Language_v1_submission.pdf)** · preprint, 2026
+**[PDF](Life_Before_Language_v1_submission.pdf)** · preprint, 2026 · DOI: [10.5281/zenodo.22761207](https://doi.org/10.5281/zenodo.22761207)
 
 Debates about AI and consciousness often compare human and machine cognition at their
 endpoints rather than their origins. This paper formalizes a seven-level hierarchy of the
@@ -41,7 +44,7 @@ fine-tuned retrofits a *crutch*. The experiments locate the wall; they do not di
 
 ## How to cite
 
-A citable **Zenodo DOI** is being minted; it will be added here and in [CITATION.cff](CITATION.cff) on publication. Until then, cite as:
+Both papers are archived on Zenodo with DOIs. See also [CITATION.cff](CITATION.cff).
 
 ```bibtex
 @techreport{bone2026loadbearing,
@@ -49,7 +52,8 @@ A citable **Zenodo DOI** is being minted; it will be added here and in [CITATION
   title  = {When Identity Is Load-Bearing: A Proposed Design Law for Incorporated Developmental State},
   year   = {2026},
   type   = {Preprint},
-  institution = {Independent Researcher}
+  institution = {Independent Researcher},
+  doi    = {10.5281/zenodo.22761148}
 }
 
 @techreport{bone2026lifebeforelanguage,
@@ -57,6 +61,7 @@ A citable **Zenodo DOI** is being minted; it will be added here and in [CITATION
   title  = {Life Before Language: Separating the Engineering Gap from the Metaphysical Gap in Debates on Machine Consciousness},
   year   = {2026},
   type   = {Preprint},
-  institution = {Independent Researcher}
+  institution = {Independent Researcher},
+  doi    = {10.5281/zenodo.22761207}
 }
 ```
