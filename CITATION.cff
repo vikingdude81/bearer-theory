@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these papers, please cite them as below."
+title: "Bearer Theory - Papers"
+authors:
+  - family-names: "Bone"
+    given-names: "Alex"
+    affiliation: "Independent Researcher, Long Beach, CA"
+repository-code: "https://github.com/vikingdude81/bearer-theory"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "When Identity Is Load-Bearing: A Proposed Design Law for Incorporated Developmental State"
+  authors:
+    - family-names: "Bone"
+      given-names: "Alex"
+      affiliation: "Independent Researcher, Long Beach, CA"
+  year: 2026
+  notes: "Preprint. A Zenodo DOI will be added on publication."
