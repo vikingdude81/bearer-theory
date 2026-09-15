@@ -5,6 +5,7 @@ authors:
   - family-names: "Bone"
     given-names: "Alex"
     affiliation: "Independent Researcher, Long Beach, CA"
+    orcid: "https://orcid.org/0009-0003-4252-7556"
 repository-code: "https://github.com/vikingdude81/bearer-theory"
 license: CC-BY-4.0
 preferred-citation:
@@ -14,5 +15,6 @@ preferred-citation:
     - family-names: "Bone"
       given-names: "Alex"
       affiliation: "Independent Researcher, Long Beach, CA"
+      orcid: "https://orcid.org/0009-0003-4252-7556"
   year: 2026
   notes: "Preprint. A Zenodo DOI will be added on publication."

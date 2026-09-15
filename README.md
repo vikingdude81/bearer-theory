@@ -2,7 +2,7 @@
 
 Preprints from the Bearer Theory / *Life Before Language* research program.
 
-**Author:** Alex Bone, Independent Researcher, Long Beach, CA
+**Author:** Alex Bone, Independent Researcher, Long Beach, CA ([ORCID 0009-0003-4252-7556](https://orcid.org/0009-0003-4252-7556))
 **License:** CC BY 4.0 (see [LICENSE](LICENSE))
 
 ---
